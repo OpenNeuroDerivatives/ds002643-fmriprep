@@ -1,1 +1,0 @@
-../../../../.git/annex/objects/wk/jp/MD5E-s612891--0988fd15cae07cd0ca846026145026c6.K/MD5E-s612891--0988fd15cae07cd0ca846026145026c6.K
